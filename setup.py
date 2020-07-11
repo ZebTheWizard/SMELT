@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-    name='SMLD',
+    name='SMELT',
     version='0.0.1',
-    packages=['SMLD'],
-    url='https://github.com/ZebTheWizard/SMLD',
+    packages=['SMELT'],
+    url='https://github.com/ZebTheWizard/SMELT',
     license='MIT',
     author='zebthewizard',
     author_email='',
-    description='Social Media Legitimacy Detector'
+    description='Social Media Estimator and Legitimacy Tester'
 )
