@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Social Media Estimator and Legitimacy Detector (SMELT)</h1>
+<h1>Social Media Estimator and Legitimacy Tester (SMELT)</h1>
 <!-- <a href="https://bit.ly/3224Lkp"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square" alt="PayPal Donation"/></a> -->
 </div>
 
