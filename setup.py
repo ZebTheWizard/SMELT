@@ -8,5 +8,5 @@ setup(
     license='MIT',
     author='zebthewizard',
     author_email='',
-    description='Social Media Estimator and Legitimacy Tester'
+    description='Social Media Engagement Legitimacy Tester'
 )

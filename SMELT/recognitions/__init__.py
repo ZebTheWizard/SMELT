@@ -1,0 +1,1 @@
+from SMELT.recognitions.TesseractRecognition import TesseractRecognition
